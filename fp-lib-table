@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "FROST-ESC")(type "KiCad")(uri "${KIPRJMOD}/libraries/ESC-logic.pretty")(options "")(descr ""))
+)

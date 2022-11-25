@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "FROST-ESC")(type "KiCad")(uri "${KIPRJMOD}/libraries/FROST-ESC.kicad_sym")(options "")(descr ""))
+  (lib (name "FLUX_BMS")(type "KiCad")(uri "${KIPRJMOD}/libraries/FLUX_BMS.kicad_sym")(options "")(descr ""))
+)
